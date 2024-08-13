@@ -51,9 +51,9 @@
 
 
 ## Github Stats  
-<div align="center"> 
+
 ![srshoruv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=srshoruv&theme=vue-dark&hide_border=true)
-</div>  
+
 
 <br/>  
 
