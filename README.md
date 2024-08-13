@@ -6,10 +6,10 @@
 ### <div align="center">I'm Shoruv, Pursing Computer Science and Engineering</div>  
   
 
-- 🎓 I’m currently studying in an [university](https://www.pust.ac.bd/)  
+- 🎓 I’m currently studying at [university](https://www.pust.ac.bd/)  
   
 
-- 🌱 I’m currently learning Data Structure and Algorithm in C++  
+- 🌱 I’m currently learning Data Structure and Algorithms in C++  
   
 
 - 💡 Let's talk about new ideas  
