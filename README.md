@@ -32,8 +32,16 @@
 
 <br/>  
 
+ 
+  
 
-## Connect with me  
+<br/>  
+
+
+## Github Stats  
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=srshoruv&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</div>
 <div align="center">
 <a href="https://linkedin.com/in/srshoruv" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -44,15 +52,6 @@
 <a href="https://twitter.com/srshoruv7" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=srshoruv&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div> 
 
 <br/>  
