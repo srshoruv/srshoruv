@@ -9,7 +9,7 @@
 - 🎓 I’m currently studying at [university](https://www.pust.ac.bd/)  
   
 
-- 🌱 I’m currently learning Data Structure and Algorithms in C++  
+- 🌱 I’m currently learning Data Structure and Algorithms in C++ along with Web Development
   
 
 - 💡 Let's talk about new ideas  
@@ -46,11 +46,6 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div> 
-
-<br/>   
-  
-
-<br/>  
 
 <div align="center"></div>
 <br />
