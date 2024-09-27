@@ -9,7 +9,7 @@
 - 🎓 I’m currently studying at [university](https://www.pust.ac.bd/)  
   
 
-- 🌱 I’m currently learning Data Structure and Algorithms in C++ along with Web Development
+- 🌱 I’m currently learning Data Structure and Algorithms in C++ along with Full-stack Web Development
   
 
 - 💡 Let's talk about new ideas  
