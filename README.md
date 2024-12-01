@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://media.licdn.com/dms/image/v2/D4E16AQHe7Dbzy6wLiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720970440678?e=1729123200&v=beta&t=gv66hXJq34egyNPfUG-jizVi4bJlM63U23KyWiI6AXE](https://media.licdn.com/dms/image/v2/D4E16AQHe7Dbzy6wLiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720970440678?e=1738800000&v=beta&t=_ocndFqf4C-qLyNipe48PQIy2I38arzWLArB7jn5ww8)" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHe7Dbzy6wLiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720970440678?e=1729123200&v=beta&t=gv66hXJq34egyNPfUG-jizVi4bJlM63U23KyWiI6AXE](https://media.licdn.com/dms/image/v2/D4E16AQHe7Dbzy6wLiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720970440678?e=1738800000&v=beta&t=_ocndFqf4C-qLyNipe48PQIy2I38arzWLArB7jn5ww8" align="center" style="width: 100%" />
 </div>  
   
 
