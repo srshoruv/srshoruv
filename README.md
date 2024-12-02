@@ -29,8 +29,7 @@
 
 ## Github Stats  
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=srshoruv&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srshoruv&show_icons=true&locale=en&layout=compact" alt="srshoruv"; /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=srshoruv&theme=highcontrast" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
 <a href="https://linkedin.com/in/srshoruv" target="_blank">
