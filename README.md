@@ -6,7 +6,7 @@
 ## <div align="center">I'm Shoruv, Pursing Computer Science and Engineering</div>  
   
 
-- 🎓 I’m currently studying at [university](https://www.pust.ac.bd/)  
+- 🎓 I’m currently studying at [Pabna Univesity of Science and Technology](https://www.pust.ac.bd/)  
   
 
 - 🌱 I’m currently learning Data Structure and Algorithms in C++ along with Full-stack Web Development
