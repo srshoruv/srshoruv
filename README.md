@@ -33,7 +33,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=srshoruv&theme=highcontrast" alt="GitHub Streak" /></a>
 </div>
 <div align="center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srshoruv&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="srshoruv's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srshoruv&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="srshoruv's GitHub Stats" />
 </div>
 <div align="center">
 <a href="https://linkedin.com/in/srshoruv" target="_blank">
