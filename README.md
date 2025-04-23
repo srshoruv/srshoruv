@@ -29,7 +29,20 @@
 </td></tr>
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=srshoruv" alt="GitHub Streak" />
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
+</script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
+<div class="calendar">
+  Loading the data just for you.
+</div>
+<script>
+  GitHubCalendar(".calendar", "srshoruv");
+  GitHubCalendar(".calendar", "srshoruv", { responsive: true });
+</script>
 
 
 <div align="center">
