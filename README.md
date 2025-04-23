@@ -29,7 +29,7 @@
 </td></tr>
 
 ## Github Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=srshoruv&theme=highcontrast)
+https://github-readme-stats.vercel.app/api?username=srshoruv
 
 
 <div align="center">
