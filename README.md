@@ -29,7 +29,7 @@
 </td></tr>
 
 ## Github Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=srshoruv&theme=highcontrast" alt="GitHub Streak" /></a>
 
 
 <div align="center">
