@@ -29,9 +29,8 @@
 </td></tr>
 
 ## Github Stats  
-<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</div>
+
 
 <div align="center">
 <a href="https://linkedin.com/in/srshoruv" target="_blank">
