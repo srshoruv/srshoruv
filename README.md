@@ -29,20 +29,7 @@
 </td></tr>
 
 ## Github Stats  
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
-</script>
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
-<div class="calendar">
-  Loading the data just for you.
-</div>
-<script>
-  GitHubCalendar(".calendar", "srshoruv");
-  GitHubCalendar(".calendar", "srshoruv", { responsive: true });
-</script>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srshoruv&theme=dark" alt="GitHub Streak" />
 
 
 <div align="center">
