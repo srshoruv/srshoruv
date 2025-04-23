@@ -29,7 +29,7 @@
 </td></tr>
 
 ## Github Stats  
-https://github-readme-stats.vercel.app/api?username=srshoruv
+<img src="https://github-readme-stats.vercel.app/api?username=srshoruv" alt="GitHub Streak" />
 
 
 <div align="center">
