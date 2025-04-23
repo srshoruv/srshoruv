@@ -30,10 +30,7 @@
 
 ## Github Stats  
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=srshoruv&theme=highcontrast" alt="GitHub Streak" /></a>
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srshoruv&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="srshoruv's GitHub Stats" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=srshoruv&theme=highcontrast" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
