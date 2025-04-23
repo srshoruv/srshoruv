@@ -7,11 +7,8 @@
   
 
 - 🎓 I’m currently studying at [Pabna Univesity of Science and Technology](https://www.pust.ac.bd/)  
-  
-
-- 🌱 I’m currently learning Data Structure and Algorithms in C++ along with Full-stack Web Development
-  
-
+- 🌱 I’m currently learning Data Structure and Algorithms in C++
+- 🏌️‍♂️ Working on a Personal Project in Python with the help of PyQt5
 - 💡 Let's talk about new ideas  
   
 
