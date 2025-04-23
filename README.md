@@ -29,7 +29,9 @@
 </td></tr>
 
 ## Github Stats  
+<div align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=srshoruv&theme=dark" alt="GitHub Streak" />
+</div>
 
 
 <div align="center">
