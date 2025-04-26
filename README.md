@@ -26,7 +26,7 @@
 </td></tr>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srshoruv&theme=dark&show_icons=true&hide_border=true&layout=default" alt="srshoruv's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srshoruv&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="srshoruv's GitHub Stats" />
 </div>
 
 ## Github Stats  
