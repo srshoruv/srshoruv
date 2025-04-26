@@ -3,11 +3,12 @@
 </div>  
   
 
-## <div align="center">I'm Shoruv, Pursing Computer Science and Engineering</div>  
+## <div align="center">I'm Shoruv, Pursuing Computer Science and Engineering</div>  
   
 
 - 🎓 I’m currently studying at [Pabna Univesity of Science and Technology](https://www.pust.ac.bd/)  
 - 🌱 I’m currently learning Data Structure and Algorithms in C++
+- 👨🏻‍💻 Practing Competitive Programming on Codeforces, leetcode and codechef regularly
 - 🏌️‍♂️ Working on a Personal Project in Python with the help of PyQt5
 - 💡 Let's talk about new ideas  
   
@@ -16,7 +17,7 @@
 
 
 ## My Skill Set  
-<tr><td valign="top" width="33%">
+<tr><td valign="top" width="40%">
 
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
@@ -26,7 +27,8 @@
 </td></tr>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srshoruv&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="srshoruv's GitHub Stats" />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srshoruv&theme=dark&show_icons=false&hide_border=false&layout=compact" alt="srshoruv's GitHub Stats" />
 </div>
 
 ## Github Stats  
