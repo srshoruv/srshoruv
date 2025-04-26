@@ -28,7 +28,11 @@
 ## Github Stats  
 <div align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=srshoruv&theme=dark" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srshoruv&theme=default&show_icons=true&hide_border=true&layout=compact" alt="srshoruv's GitHub Stats" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srshoruv&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="srshoruv's GitHub Stats" />
 </div>
 
 
