@@ -28,6 +28,8 @@
 ## Github Stats  
 <div align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=srshoruv&theme=dark" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=srshoruv&theme=default&show_icons=true&hide_border=true&layout=compact)
+
 </div>
 
 
