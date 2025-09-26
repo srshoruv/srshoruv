@@ -1,30 +1,29 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHe7Dbzy6wLiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720970440678?e=1750896000&v=beta&t=sTKzQ6r0B63AcuWrFegYsg9noiH4Od5DAMMvBAdYqO4" align="center" style="width: 100%" />
+<a href="https://ibb.co.com/2YWz9ct7"><img src="https://i.ibb.co.com/TqYQfP8B/SR-15.jpg" alt="SR-15" border="0"></a>
 </div>  
   
 
 ## <div align="center">I'm Shoruv, Pursuing Computer Science and Engineering</div>  
   
 
-- 🎓 I’m currently studying at [Pabna Univesity of Science and Technology](https://www.pust.ac.bd/)  
-- 🌱 I’m currently learning Data Structure and Algorithms in C++
+- 🎓 Currently studying B.Sc.(Engr.) in CSE at [Pabna Univesity of Science and Technology](https://www.pust.ac.bd/)  
+- 🌱 Learning Data Structure and Algorithms in C++
+- 💎 Learning Flutter and Java Language
 - 👨🏻‍💻 Practing Competitive Programming on Codeforces, leetcode and codechef regularly
-- 🏌️‍♂️ Working on a Personal Project in Python with the help of PyQt5
 - 💡 Let's talk about new ideas  
   
 
 <br/>  
 
-
 ## My Skill Set  
-<tr><td valign="top" width="40%">
 
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,flutter,html,css,js,git,github,sublime,notion,vscode,clion" />
+</p>
 
-</td></tr>
+<p align="center">
+  <em>Currently sharpening: Flutter & Java 🛠️</em>
+</p>
 
 <div align="center">
   
@@ -36,7 +35,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=srshoruv&theme=dark" alt="GitHub Streak" />
 
 </div>
-
+<br/>
 
 
 <div align="center">
