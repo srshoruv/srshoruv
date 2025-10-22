@@ -72,9 +72,6 @@
 <a href="https://twitter.com/srshoruv7" target="_blank">
 <img src="https://skillicons.dev/icons?i=discord" />
 </a>
-<a href="https://youtube.com/@SolutionsofTechnology" target="_blank">
-<img src="https://iconic-api.onrender.com/dark/youtube" width="55px" />
-</a>
 
 
 </div> 
