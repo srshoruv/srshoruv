@@ -17,6 +17,24 @@
 
 # My Skill Set >>
 
+
+## Competitive Programming Profiles
+<p align="center">
+<a href="https://codeforces.com/profile/srshoruv" target="_blank">
+<img src="https://iconic-api.onrender.com/dark/codeforces" width="58px" />
+</a>
+<a href="http://codechef.com/users/srshoruv7" target="_blank">
+<img src="https://iconic-api.onrender.com/light/codechef" width="58px" />
+</a>
+<a href="https://leetcode.com/u/srshoruv/" target="_blank">
+<img src="https://iconic-api.onrender.com/light/leetcode" width="58px" />
+</a>
+<a href="https://www.hackerrank.com/profile/srshoruv2002" target="_blank">
+<img src="https://iconic-api.onrender.com/dark/hackerrank" width="58px" />
+</a>
+  
+</p>
+
 ## Languages & Frameworks >>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,java,dart,flutter,html,css,js" />
@@ -54,9 +72,10 @@
 <a href="https://twitter.com/srshoruv7" target="_blank">
 <img src="https://skillicons.dev/icons?i=discord" />
 </a>
-<a href="https://twitter.com/srshoruv7" target="_blank">
-<img src="https://iconic-api.onrender.com/dark/codeforces" width="52px" />
+<a href="https://youtube.com/@SolutionsofTechnology" target="_blank">
+<img src="https://iconic-api.onrender.com/dark/youtube" width="55px" />
 </a>
+
 
 </div> 
 
