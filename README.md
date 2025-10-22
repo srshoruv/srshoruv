@@ -52,7 +52,10 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 <a href="https://twitter.com/srshoruv7" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" />
+<img src="https://skillicons.dev/icons?i=discord" />
+</a>
+<a href="https://twitter.com/srshoruv7" target="_blank">
+<img src="https://iconic-api.onrender.com/dark/codeforces" width="52px" />
 </a>
 
 </div> 
