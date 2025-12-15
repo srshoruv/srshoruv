@@ -6,7 +6,7 @@
 ## <div align="center">I'm Shoruv, Pursuing Computer Science and Engineering</div>  
   
 
-- 🎓 Currently studying B.Sc.(Engr.) in CSE at [Pabna Univesity of Science and Technology](https://www.pust.ac.bd/)  
+- 🎓 Currently studying B.Sc.(Engg.) in CSE at [Pabna Univesity of Science and Technology](https://www.pust.ac.bd/)  
 - 🌱 Learning Data Structure and Algorithms in C++
 - 💎 Learning Flutter and Java Language
 - 👨🏻‍💻 Practing Competitive Programming on Codeforces, leetcode and codechef regularly
